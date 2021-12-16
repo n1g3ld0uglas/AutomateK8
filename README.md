@@ -1,4 +1,4 @@
-# AutomateK8
+# Automate Kubernetes Cluster Creation
 
 SSH into one of your VM's and run this on the dedicated VM (which will become as master node)
 ```
